@@ -1,5 +1,5 @@
+ 
 print("---------- College Admission Eligiblity Checker----------")
-
 num_age = int(input("enter age :"))
 num_marks = float(input("enter marks :"))
 
@@ -13,6 +13,6 @@ if num_age >17 and num_age<25:
         elif num_marks<70:
             print("you are eligible to MECHANICAL department ")       
     else :
-        print(" you are not eligible because of marks")    
+        print(" you are is not eligible because of marks")    
 else:
-    print("you are not eligible to admission  because of age")    
+    print("you are not eligible to admission  because of age")

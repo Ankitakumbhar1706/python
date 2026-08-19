@@ -1,0 +1,9 @@
+name = input("Enter employee name: ")
+role = input("Enter employee role: ")
+salary = float(input("Enter monthly salary: "))
+
+print("\n----- EMPLOYEE IDENTITY CARD -----")
+print("Name   :", name)
+print("Role   :", role)
+print("Salary :", salary)
+print("----------------------------------")
